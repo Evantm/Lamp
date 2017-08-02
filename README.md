@@ -1,9 +1,9 @@
-#Lamp#
+# Lamp#
 
 IOT Lamp of the future. 
 
 
-##The most overcomplicated IOT lamp
+## The most overcomplicated IOT lamp
 
 Parts:
 * BMP280 / BMP280
