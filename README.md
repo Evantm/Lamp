@@ -1,6 +1,7 @@
 # Lamp
 
 IOT Lamp of the future. 
+lamp.evanmackay.ca
 
 
 ## The most overcomplicated IOT lamp
