@@ -1,6 +1,17 @@
-### Lamp###
+#Lamp#
+
 IOT Lamp of the future. 
 
-##The most overcomplicated IOT lamp##
 
-BMP280/BME280 and a relay module along with google charts hosted by ESP8266 NodeMCU 1.0 
+##The most overcomplicated IOT lamp
+
+Parts:
+* BMP280 / BMP280
+* 2 Relay Module
+* ESP8266 based NodeMCU 1.0
+
+Software:
+* Google Charts
+* ESP8266 WebServer
+* BMP280 libary
+* Blynk for testing.
